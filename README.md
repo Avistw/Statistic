@@ -1,6 +1,7 @@
 
-**Note and Practice **
+
 # Kaggle-Time-Series
+**Note and Practice **
 
 Self learning - Time Series 
 Time Series Lesson consist of 6 chapters
