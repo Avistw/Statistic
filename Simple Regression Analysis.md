@@ -22,3 +22,11 @@ There are three patterns that you may observe based on your scatter plot.
  3. No relationship ( a horizontal) 
 
 Note: only linear pattern or equation can use regression analysis. 
+
+
+
+
+
+
+
+This note refer to video: https://www.youtube.com/watch?v=CW_S2tCgKWM&list=PLj6E8qlqmkFvwztCUsRIc8QqAn9jl8bgv&index=8
