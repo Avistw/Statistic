@@ -1,7 +1,7 @@
 # What is Pearson correlation coefficent? 
 
 #### When a bunch of data has certain ways as below can use Pearson correlation coefficient
-1.1 Two variables are linear relationship.  
+1.1 To evaluate whether two variables are linear relationship. Coefficient correlation cannot explain the causation of variables.     
 
 1.2 When you want to measure the level of the correlation bettwen 2 variables
 
